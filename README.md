@@ -32,6 +32,16 @@ In conclusion, CoderHub is a complete, functional, and visually appealing front-
 
 # OUTPUT OF THE TASK PERFORMED
 
+<img width="1915" height="918" alt="Image" src="https://github.com/user-attachments/assets/bee89c16-853d-46cd-a73a-70107d2cc9d8" />
 
+<img width="1915" height="941" alt="Image" src="https://github.com/user-attachments/assets/24558143-7e5b-42c4-b55d-0076585f3d47" />
+
+<img width="1917" height="940" alt="Image" src="https://github.com/user-attachments/assets/31bd08e7-c63d-47f3-b0f3-fafc8a543e93" />
+
+<img width="1916" height="942" alt="Image" src="https://github.com/user-attachments/assets/bf4492c4-3ebc-4117-917b-632a3c0ad036" />
+
+<img width="1915" height="946" alt="Image" src="https://github.com/user-attachments/assets/66ca39c8-ba15-431b-ba37-71295bdd5b3e" />
+
+<img width="1912" height="942" alt="Image" src="https://github.com/user-attachments/assets/b8b6b8bb-8e0c-4ca4-b129-083332a7f18f" />
 
 
